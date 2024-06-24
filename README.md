@@ -19,7 +19,3 @@ My main area of expertise is NLP. Check out my publications [here](https://schol
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simonescaboro&layout=compact"/>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Cat.png" alt="Black Cat" width="100" height="100" />
-</p>
-
